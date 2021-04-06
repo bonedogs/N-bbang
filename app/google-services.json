@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "268924047098",
+    "project_id": "n-ppang-chatting",
+    "storage_bucket": "n-ppang-chatting.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268924047098:android:562ce55b42d0acb14dc343",
+        "android_client_info": {
+          "package_name": "com.example.n_ppang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268924047098-j69iib60tr6r3pjti9dmjecaa7bds3mk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATvQ_6i4cQrSJnTwgAy1iuDQFiqGmBOrc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268924047098-j69iib60tr6r3pjti9dmjecaa7bds3mk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
